@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\route et obstacles\\createrealtimeroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\route et obstacles\\createrealtimeroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|c:\\tp unity\\2024-2025\\r3.10\\r310_tp1\\assets\\messcripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\divers\\environnementfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\divers\\environnementfollowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\route et obstacles\\buildinitroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\route et obstacles\\buildinitroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\route et obstacles\\createstaticroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\route et obstacles\\createstaticroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\route et obstacles\\moveontheroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\route et obstacles\\moveontheroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\assets\\messcripts\\divers\\retourscenejeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3091EB6-F6D1-E6AE-CEE5-EC2FDF2791C3}|Assembly-CSharp.csproj|solutionrelative:assets\\messcripts\\divers\\retourscenejeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvironnementFollowPlayer.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\divers\\EnvironnementFollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\divers\\EnvironnementFollowPlayer.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\divers\\EnvironnementFollowPlayer.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\divers\\EnvironnementFollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:14:04.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildInitRoad.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\BuildInitRoad.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\Route et Obstacles\\BuildInitRoad.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\BuildInitRoad.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\Route et Obstacles\\BuildInitRoad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:45:27.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateRealTimeRoad.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\CreateRealTimeRoad.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\Route et Obstacles\\CreateRealTimeRoad.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\CreateRealTimeRoad.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\Route et Obstacles\\CreateRealTimeRoad.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:44:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStaticRoad.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\CreateStaticRoad.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\Route et Obstacles\\CreateStaticRoad.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\CreateStaticRoad.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\Route et Obstacles\\CreateStaticRoad.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:34:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\PlayerController.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\PlayerController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:27:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RetourSceneJeu.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\divers\\RetourSceneJeu.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\divers\\RetourSceneJeu.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\divers\\RetourSceneJeu.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\divers\\RetourSceneJeu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:24:57.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveOnTheRoad.cs",
+              "DocumentMoniker": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\MoveOnTheRoad.cs",
+              "RelativeDocumentMoniker": "Assets\\MesScripts\\Route et Obstacles\\MoveOnTheRoad.cs",
+              "ToolTip": "C:\\TP Unity\\2024-2025\\R3.10\\R310_TP1\\Assets\\MesScripts\\Route et Obstacles\\MoveOnTheRoad.cs",
+              "RelativeToolTip": "Assets\\MesScripts\\Route et Obstacles\\MoveOnTheRoad.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:15:16.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
