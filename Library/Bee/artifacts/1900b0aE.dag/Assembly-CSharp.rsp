@@ -398,6 +398,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/MesScripts/ChronoManager.cs"
 "Assets/MesScripts/divers/CameraFollowPlayer.cs"
 "Assets/MesScripts/divers/EnvironnementFollowPlayer.cs"
 "Assets/MesScripts/divers/RetourSceneJeu.cs"

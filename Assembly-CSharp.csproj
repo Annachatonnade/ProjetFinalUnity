@@ -68,6 +68,7 @@
     <Compile Include="Assets\MesScripts\Route et Obstacles\CreateRealTimeRoad.cs" />
     <Compile Include="Assets\MesScripts\divers\EnvironnementFollowPlayer.cs" />
     <Compile Include="Assets\MesScripts\Route et Obstacles\MoveOnTheRoad.cs" />
+    <Compile Include="Assets\MesScripts\ChronoManager.cs" />
     <Compile Include="Assets\MesScripts\divers\CameraFollowPlayer.cs" />
     <Compile Include="Assets\MesScripts\divers\RetourSceneJeu.cs" />
     <Compile Include="Assets\MesScripts\RealistPlayerController.cs" />
